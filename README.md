@@ -18,8 +18,15 @@ First, we need to install Rust. Please follow instructions on [this page](https:
 
 After we install Rust, we need to install wasm-pack, which compiles the code to WebAssembly and produces files that will work in user's browsers. To install wasm-pack, we run the following code:
 
-```
+```bash
 cargo install wasm-pack
 ```
 
-more to come....
+Now that we have wasm-pack installed, we can create our rust package.
+
+Rust makes this process really easy. All we need to do is open a command line instance in the directory where we would like to store our code and use Rust's cargo command.
+
+```bash
+cargo new --lib wass-rust
+```
+more to come...
