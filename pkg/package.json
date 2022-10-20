@@ -1,0 +1,21 @@
+{
+  "name": "wass-rust",
+  "collaborators": [
+    "Cassidy"
+  ],
+  "description": "wasm-pack rust sample",
+  "version": "0.1.0",
+  "license": "MIT/Apache-2.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/casmacdo/wass-rust"
+  },
+  "files": [
+    "wass_rust_bg.wasm",
+    "wass_rust.js",
+    "wass_rust.d.ts"
+  ],
+  "module": "wass_rust.js",
+  "types": "wass_rust.d.ts",
+  "sideEffects": false
+}
