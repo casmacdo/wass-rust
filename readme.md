@@ -1,5 +1,5 @@
 # Rust and WebAssembly 
-Rust is a low-level programming language that Mozilla to overcome shortcommings of languages like C and C++. 
+Rust is a low-level programming language that Mozilla developed to overcome shortcommings of languages like C and C++. 
 
 WebAssembly acts as a compilation target and allows low-level programming languages like C, C++, and Rust to run on the web.
 
