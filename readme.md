@@ -1,5 +1,6 @@
-# Rust and WebAssembly 
-Rust is a low-level programming language that Mozilla developed to overcome shortcommings of languages like C and C++. 
+# Rust and WebAssembly
+
+Rust is a low-level programming language that Mozilla developed to overcome shortcommings of languages like C and C++.
 
 WebAssembly acts as a compilation target and allows low-level programming languages like C, C++, and Rust to run on the web.
 
@@ -15,9 +16,10 @@ If you're interested in learning how to use Rust and WebAssembly, you're probabl
 
 First, we need to install Rust. Please follow instructions on [this page](https://developer.mozilla.org/en-US/docs/WebAssembly/Rust_to_wasm) should you need to install rust.
 
-After we install Rust, we need to install wasm-pack, which compiles the code to webassembly and produces files that will work in user's browsers. To install wasm-pack, we run the following code in our terminals:
+After we install Rust, we need to install wasm-pack, which compiles the code to WebAssembly and produces files that will work in user's browsers. To install wasm-pack, we run the following code:
 
 ```
 cargo install wasm-pack
 ```
+
 more to come....
